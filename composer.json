@@ -1,0 +1,12 @@
+{	
+	"repositories": [
+		{
+			"type" : "vcs",
+			"url" : "https://github.com/Savostytskyi/comp_run"
+
+		}
+	],
+	"require":{
+		"savostytskyi/project" : "dev-master"
+	}
+}	
